@@ -1,6 +1,9 @@
 <resources>
     <string name="app_name">Aidhere</string>
-    <string name="calling">Calling ...</string>
+    <string name="calling">Calling</string>
     <string name="phone_icon">phone icon</string>
     <string name="cancel">cancel</string>
+    <string name="eta">ETA: </string>
+    <string name="updated_eta">ETA: 3 minutes</string>
+    <string name="request">request</string>
 </resources>
