@@ -6,4 +6,5 @@
     <string name="eta">ETA: </string>
     <string name="updated_eta">ETA: 3 minutes</string>
     <string name="request">request</string>
+    <string name="mic">mic</string>
 </resources>

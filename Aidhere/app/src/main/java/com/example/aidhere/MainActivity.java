@@ -2,8 +2,11 @@ package com.example.aidhere;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.animation.LayoutTransition;
 import android.content.Intent;
 import android.os.Bundle;
+import android.view.View;
+import android.view.ViewGroup;
 import android.widget.ImageView;
 
 // Implement OnMapReadyCallback.
