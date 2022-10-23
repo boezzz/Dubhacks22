@@ -41,11 +41,7 @@ dependencies {
 }
 
 task wrapper(type: Wrapper){
-<<<<<<< HEAD
     gradleVersion = '7.2'
-=======
-    gradleVersion = '7.4'
->>>>>>> c9fc1317cd2332ddd8125be55acddd799f69c043
 }
 
 task prepareKotlinBuildScriptModel {
